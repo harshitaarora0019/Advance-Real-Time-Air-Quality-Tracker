@@ -27,7 +27,7 @@ The project focuses on environmental monitoring and API integration.
     <th>Description</th>
   </tr>
   <tr>
-    <td><b>main.py</b></td>
+    <td><b>major.py</b></td>
     <td>
       Core application file. Handles API requests, processes real-time
       air quality data, and displays results.
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 </ol>
 
 <pre>
-python main.py
+python major.py
 </pre>
 
 <hr>
